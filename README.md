@@ -17,7 +17,7 @@ Fluent in English, Hindi & Punjabi. Certified in AI-Powered Management & Product
 * 🚀  I'm currently working on [Driving sales & business development at Alt.f Coworking, India — building client pipelines, managing operations, and scaling premium coworking experiences.](http://www.altfcoworking.com/)
 * 🧠  I'm currently learning Basics of AI tools from be10x online platform
 * 👥  I'm looking to collaborate on Projects - where I make you the customer handling skills and learn more about Business Analysis
-
+### Skills 
 <p align="left">
 <a href="https://huggingface.co/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/huggingface-colored-dark.svg" alt="Hugging Face" title="Hugging Face" width="36" height="36" /></a>
 </p>

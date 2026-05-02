@@ -35,7 +35,6 @@ src="https://img.shields.io/github/followers/jasminek2803-cloud?logo=github&styl
 
 <a href="http://www.github.com/jasminek2803-cloud"><img src="https://github-readme-streak-stats.herokuapp.com/?user=jasminek2803-cloud&stroke=ffffff&background=1c1917&ring=ffffff&fire=ffffff&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="https://github.com/jasminek2803-cloud" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jasminek2803-cloud&langs_count=10&title_color=ffffff&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 <b>Top Repositories</b>
 

@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Jasmine Kaur
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I'm Jasmine Kaur and Welcome to my GitHub profile 
 =====================================================================================================================================
 
 Management Trainee - Sales and Operations
@@ -17,6 +17,8 @@ Fluent in English, Hindi & Punjabi. Driven by a simple philosophy — luxury is 
 * 🚀  I'm currently working on [Driving sales & business development at Alt.f Coworking, India — building client pipelines, managing operations, and scaling premium coworking experiences.](http://www.altfcoworking.com/)
 * 🧠  I'm currently learning Basics of AI tools from be10x online platform
 * 👥  I'm looking to collaborate on Projects - where I can develop the Business Analytical skills.
+* 💬  Ask me about I am a Super Woman - I want to do everything in my life.
+  
 ### Skills 
 <p align="left">
 <a href="https://huggingface.co/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/huggingface-colored-dark.svg" alt="Hugging Face" title="Hugging Face" width="36" height="36" /></a>

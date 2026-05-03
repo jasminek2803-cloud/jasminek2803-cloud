@@ -17,7 +17,7 @@ Fluent in English, Hindi & Punjabi. Driven by a simple philosophy — luxury is 
 * 🚀  I'm currently working on [Driving sales & business development at Alt.f Coworking, India — building client pipelines, managing operations, and scaling premium coworking experiences.](http://www.altfcoworking.com/)
 * 🧠  I'm currently learning Basics of AI tools from be10x online platform
 * 👥  I'm looking to collaborate on Projects - where I can develop the Business Analytical skills.
-* fun fact - I am a Super Woman - I want to do everything in my life.
+* 🎶 Fun Fact: I’m a "Rhythmic Soul"—I find the flow in business operations and the peace in everything else.
   
 ### Skills 
 <p align="left">

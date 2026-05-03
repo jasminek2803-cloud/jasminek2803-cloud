@@ -10,13 +10,13 @@ I currently work as a Management Trainee in Sales & Operations at Alt.f Coworkin
 
 Alongside this, I'm pursuing my MBA in International Business & Digital Marketing from Amity University — bridging ground-level execution with global business strategy.
 
-Fluent in English, Hindi & Punjabi. Certified in AI-Powered Management & Productivity (Be10x). Driven by a simple philosophy — luxury is in the details, and that standard applies everywhere.
+Fluent in English, Hindi & Punjabi. Driven by a simple philosophy — luxury is in the details, and that standard applies everywhere.
 
 * 🌍  I'm based in New Delhi, India
 * ✉️  You can contact me at [jasminek2803@gmail.com](mailto:jasminek2803@gmail.com)
 * 🚀  I'm currently working on [Driving sales & business development at Alt.f Coworking, India — building client pipelines, managing operations, and scaling premium coworking experiences.](http://www.altfcoworking.com/)
 * 🧠  I'm currently learning Basics of AI tools from be10x online platform
-* 👥  I'm looking to collaborate on Projects - where I make you the customer handling skills and learn more about Business Analysis
+* 👥  I'm looking to collaborate on Projects - where I can develop the Business Analytical skills.
 ### Skills 
 <p align="left">
 <a href="https://huggingface.co/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/huggingface-colored-dark.svg" alt="Hugging Face" title="Hugging Face" width="36" height="36" /></a>
